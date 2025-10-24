@@ -152,13 +152,3 @@ StreamBase/
 ## 📄 License
 
 MIT License – feel free to explore and extend this project for learning purposes.
-
----
-
-```
-
----
-
-
-Do you want me to do that next?
-```
